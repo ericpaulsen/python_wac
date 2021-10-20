@@ -6,11 +6,7 @@ Press the button to authenticate into a Coder instance and execute the coder.yam
 
 ###### demo
 
-[![Open in Coder](https://cdn.coder.com/embed-button.svg)](https://demo.cdr.dev/wac/build?template_oauth_service=github&template_url=git@github.com:mtm20176/python_wac.git&template_ref=master&template_filepath=.coder/coder.yaml)
-
-###### mark.demo
-
-[![Open in Coder](https://cdn.coder.com/embed-button.svg)](https://mark.demo.coder.com/wac/build?template_oauth_service=github&template_url=git@github.com:mtm20176/python_wac.git&template_ref=master&template_filepath=.coder/coder.yaml)
+[![Open in Coder](https://cdn.coder.com/embed-button.svg)](https://demo-2.cdr.dev/wac/build?template_oauth_service=github&template_url=https://github.com/ericpaulsen/python_wac.git&template_ref=master&template_filepath=.coder/coder.yaml)
 
 ###### Notes / To run this app after cloning, we recommend:
 
