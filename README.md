@@ -4,11 +4,11 @@ This WAC file uses Coder Technologies' Workspaces as code innovation to automate
 
 Press the button to authenticate into a Coder instance and execute the coder.yaml
 
-###### demo
+###### Demo
 
 [![Open in Coder](https://cdn.coder.com/embed-button.svg)](https://demo-2.cdr.dev/wac/build?template_oauth_service=github&template_url=https://github.com/ericpaulsen/python_wac.git&template_ref=master&template_filepath=.coder/coder.yaml)
 
-###### Notes / To run this app after cloning, we recommend:
+###### Notes
 
 * builds a cloud container using specified compute resources
 
